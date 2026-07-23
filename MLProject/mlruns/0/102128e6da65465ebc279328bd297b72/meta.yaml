@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI-Ana/Workflow-CI-Ana/MLProject/mlruns/0/102128e6da65465ebc279328bd297b72/artifacts
+end_time: 1784790280611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 102128e6da65465ebc279328bd297b72
+run_name: enthused-auk-202
+run_uuid: 102128e6da65465ebc279328bd297b72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784790267950
+status: 3
+tags: []
+user_id: runner

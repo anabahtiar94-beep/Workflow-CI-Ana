@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI-Ana/Workflow-CI-Ana/MLProject/mlruns/0/938581015c04424c908fe48aba436924/artifacts
+end_time: 1784790666188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 938581015c04424c908fe48aba436924
+run_name: nimble-pug-973
+run_uuid: 938581015c04424c908fe48aba436924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784790656381
+status: 3
+tags: []
+user_id: runner

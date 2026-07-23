@@ -1,4 +1,4 @@
-# Workflow-CI (Ana) — Heart Disease Prediction
+# Workflow-CI — Heart Disease Prediction
 
 Workflow CI untuk re-training model **Heart Disease Prediction** secara otomatis menggunakan MLflow Project + GitHub Actions, dan mem-build/push Docker image ke Docker Hub.
 

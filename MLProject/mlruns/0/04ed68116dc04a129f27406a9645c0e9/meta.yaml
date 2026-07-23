@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI-Ana/Workflow-CI-Ana/MLProject/mlruns/0/04ed68116dc04a129f27406a9645c0e9/artifacts
+end_time: 1784789381089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04ed68116dc04a129f27406a9645c0e9
+run_name: valuable-lynx-310
+run_uuid: 04ed68116dc04a129f27406a9645c0e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784789371429
+status: 3
+tags: []
+user_id: runner

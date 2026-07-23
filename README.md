@@ -30,3 +30,4 @@ cd MLProject
 pip install mlflow==2.19.0 pandas numpy scikit-learn
 mlflow run . --env-manager=local
 ```
+
